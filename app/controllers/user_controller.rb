@@ -1,0 +1,2 @@
+class UserControllerActionController::API
+end

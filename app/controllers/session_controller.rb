@@ -1,0 +1,2 @@
+class SessionControllerActionController::API
+end
